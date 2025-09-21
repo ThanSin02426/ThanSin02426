@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manthan Singla</h1>
 <h3 align="center">A passionate Developer and Designer from India having experience in AI/ML</h3>
 
-- 🌱 I’m currently learning **Deep neural networks**
+- 🌱 I’m currently learning **How to Implement AI in everything**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ThanSin02426](https://github.com/ThanSin02426)
 
