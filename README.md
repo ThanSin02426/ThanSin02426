@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **manthan02426@gmail.com**
 
-- ⚡ Fun fact **I am not spiderman**
+- ⚡ Fun fact **I am a good boy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
