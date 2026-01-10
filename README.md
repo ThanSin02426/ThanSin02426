@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **manthan02426@gmail.com**
 
-- ⚡ Fun fact **I am a good boy**
+- ⚡ Fun fact **I love collecting perfumes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
