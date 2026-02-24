@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Manthan Singla</h1>
-<h3 align="center">A passionate Developer and Designer from India having experience in AI/ML</h3>
+<h1 align="center">Hi 👋, I'm Manthan</h1>
+<h3 align="center">A passionate Developer and Designer from India</h3>
 
 - 🌱 I’m currently learning **How to Implement AI in everything**
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **manthan02426@gmail.com**
 
-- ⚡ Fun fact **I love collecting perfumes**
+- ⚡ Hobbies? **I love reading books and collecting perfumes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
