@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Manthan</h1>
+<h1 align="center">Hi , I'm Manthan</h1>
 <h3 align="center">A passionate Developer and Designer from India</h3>
 
-- 🌱 I’m currently learning **How to Implement AI in everything**
+-  I’m currently learning **How to Implement AI in everything**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ThanSin02426](https://github.com/ThanSin02426)
+-  All of my projects are available at [https://github.com/ThanSin02426](https://github.com/ThanSin02426)
 
-- 📫 How to reach me **manthan02426@gmail.com**
+-  How to reach me **manthan02426@gmail.com**
 
-- ⚡ Hobbies? **I love reading books and collecting perfumes**
+-  Hobbies? **I love reading books and collecting perfumes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
