@@ -22,7 +22,7 @@
 
 <br>
 
-<h3 align="left">🐍 Watch the Snake Eat my Contributions!</h3>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThanSin02426/ThanSin02426/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThanSin02426/ThanSin02426/output/github-contribution-grid-snake.svg">
