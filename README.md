@@ -1,6 +1,6 @@
-# Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="30px"> There?
+# Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="30px"> there.
 
-I believe "When flowers met scents they were plucked".
+**I think "When flowers met scents they were plucked" :)** <br>
 However, I am an undergraduate Computer Science student with a good knowledge of C++. I actively engage in competitive programming to hone my algorithmic skills and have a keen interest in open-source development. My technical curiosity also extends to core computer architecture, including RISC design and pipelining. Recently, I have been developing diverse projects ranging from generative AI applications to computer vision systems. Beyond coding, I actively contribute to my academic community by taking on leadership roles to organize large-scale technical and cultural festivals.
 
 ## My toolkit
