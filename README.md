@@ -5,7 +5,7 @@ I think &nbsp; **"When flowers met Scents they were Plucked" &nbsp; :)** &emsp;&
 
 ## My toolkit
 
-> I think I know about:
+> I know about:
 
 | | | | | | | | |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
